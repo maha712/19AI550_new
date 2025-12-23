@@ -4,7 +4,7 @@
 ### AIM: 
 To write a program to simulate the process of jumping in Unity.
 ### Algorithm:
-```
+
 1. Create a new 3D Unity project
 2. Add a Plane
 3. Right-click Hierarchy → 3D Object → Plane → Rename to Ground
@@ -19,7 +19,7 @@ To write a program to simulate the process of jumping in Unity.
 Press Play
 Press Spacebar to jump
 Your cube should only jump when touching the ground
-```
+
 ###
 **Program **
 ```
